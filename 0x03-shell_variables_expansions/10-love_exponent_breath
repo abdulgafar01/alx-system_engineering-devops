@@ -1,2 +1,2 @@
-9-divide_and_rule
+#!/bin/bash
 echo $(($BREATH**$LOVE))
